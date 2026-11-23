@@ -1,0 +1,6 @@
+[submodule "workspaceWeb/juegoAdivinarBandera"]
+	path = workspaceWeb/juegoAdivinarBandera
+	url = https://github.com/manuelcespedesrguez-ux/Juego-Adivinar-Banderas.git
+[submodule "workspaceWeb/top_videojuegos"]
+	path = workspaceWeb/top_videojuegos
+	url = <https://github.com/manuelcespedesrguez-ux/Juego-Adivinar-Banderas>
